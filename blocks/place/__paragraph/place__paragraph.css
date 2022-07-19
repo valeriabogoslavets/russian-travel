@@ -1,12 +1,11 @@
 .place__paragraph {
-    max-width: 484px;
-    margin-top: 48px;
-    padding: 0;
-
+  max-width: 484px;
+  margin-top: 48px;
+  padding: 0;
 }
 
 @media screen and (max-width: 767px) {
-    .place__paragraph {
-        margin: 32px auto 0;
-    }
+  .place__paragraph {
+    margin: 32px auto 0;
+  }
 }
